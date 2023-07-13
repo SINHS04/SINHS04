@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SINHS04/SINHS04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## GitHub stats
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+## GitHub status
 ![whruddn1013's GitHub stats](https://github-readme-stats.vercel.app/api?username=SINHS04&show_icons=true&theme=radical)
 
-## Baekjoon Online Judge level
+## Baekjoon level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whruddn1013)](https://solved.ac/whruddn1013/)
+
+## Most Used Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
