@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://KyeongWoo-Cho.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://KyeongWooCho.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ## GitHub status
 ![whruddn1013's GitHub stats](https://github-readme-stats.vercel.app/api?username=SINHS04&show_icons=true&theme=radical)
